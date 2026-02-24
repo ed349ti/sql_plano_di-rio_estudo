@@ -1,6 +1,7 @@
 # sql_plano_di-rio_estudo
 Vou montar um plano de 8 semanas, com foco em SQL pesado, prática diária e construção de maturidade técnica. A ideia é estudar de segunda a sexta, 1h30 a 2h por dia
-📅 Estrutura diária padrão
+
+# 📅 Estrutura diária padrão
 
 Todo dia você vai dividir assim:
 
@@ -10,7 +11,7 @@ Todo dia você vai dividir assim:
 
 15 min revisão + anotações técnicas (GitHub depois)
 
-🔵 SEMANAS 1–2: Fundamentos sólidos (base forte)
+## 🔵 SEMANAS 1–2: Fundamentos sólidos (base forte)
 🎯 Objetivo:
 
 Dominar SELECT, JOIN, agregações e subqueries sem pensar muito.
@@ -115,7 +116,7 @@ Mostre variação percentual
 
 Sem copiar. Pensar como engenheiro.
 
-🔵 SEMANAS 3–4: SQL avançado
+## 🔵 SEMANAS 3–4: SQL avançado
 
 Agora começa o nível que diferencia você.
 
@@ -192,7 +193,7 @@ Crescimento percentual
 
 Tudo numa única query estruturada.
 
-🔵 SEMANAS 5–6: Performance e modelagem
+## 🔵 SEMANAS 5–6: Performance e modelagem
 
 Aqui você começa a virar engenheiro.
 
@@ -252,7 +253,8 @@ Top clientes
 
 Ticket médio
 
-🔵 SEMANAS 7–8: Mentalidade de Data Engineer
+## 🔵 SEMANAS 7–8: Mentalidade de Data Engineer
+
 ✅ Dia 1 – Carga incremental
 
 Simular:
@@ -282,7 +284,7 @@ raw → staging → mart
 
 Resolver 10 queries complexas cronometradas.
 
-📌 Regra de ouro
+# 📌 Regra de ouro
 
 Todo exercício:
 
