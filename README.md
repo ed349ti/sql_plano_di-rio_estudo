@@ -12,6 +12,7 @@ Todo dia você vai dividir assim:
 15 min revisão + anotações técnicas (GitHub depois)
 
 ## 🔵 SEMANAS 1–2: Fundamentos sólidos (base forte)
+
 🎯 Objetivo:
 
 Dominar SELECT, JOIN, agregações e subqueries sem pensar muito.
